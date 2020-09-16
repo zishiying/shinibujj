@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404错误_模板之家 </title>
+<meta name="keywords" content="网页模板,网站模板,DIV+CSS模板,css模板,企业网站模板下载" />
+<meta name="description" content="模板之家力争为大家提供最好最全的网站模板下载，wordpress主题模板，网站素材等资源。本站网页模板收集于互联网,上千种免费网页模板下载尽在模板之家。" />
+<link type="text/css" rel="stylesheet" href="/statics/css/styles.css" />
+<!--[if lt IE 9]>
+<link href="/min/?g=cssies" type="text/css" rel="stylesheet"/>
+<script src="/min/?g=jsies" charset="utf-8"></script>
+<![endif]-->
+</head>
+<style>
+#main {padding: 0 0 5px;text-align: left;font-family: 'microsoft yahei',"\5B8B\4F53",sans-serif;}
+.page-top {background: #2A5ABE;min-height: 50px;font-size: 16px;border-bottom: 3px solid #CFD4E2;}
+.container, .wide-main {width: 1306px;margin: 0 auto;position: relative;transition: width .3s linear;}
+.logo {width: 150px;float: left;background: url(http://www.cssmoban.com/statics/images/head/logo.png) no-repeat 0 7px;}
+.menu {float: left;}
+.menu ul li {float: left;height: 50px;}
+
+.c404 h2{font-size:70px;font-family:"HelveticaNeue", Helvetica, Arial, sans-serif;height:100px;line-height:100px;margin:20px 0 10px 0;}
+.c404 p{font-size:20px;}
+.c404 p a{color:#FF3600;text-decoration:underline;}
+
+@media (min-width: 768px) and (max-width: 1180px) {
+		.container, .wide-main{width: 988px;}
+		
+@media (min-width: 1180px) and (max-width: 1345px){
+    	.container, .wide-main, .page-article, .content-wrap{width: 1226px}
+</style>
+<body>
+<div id="main" class="clearfix">
+	<section class="page-top">
+		<div class="container in-media-main">
+			<div class="logo"><a href="/">模板之家</a></div>
+			<nav class="menu">
+				<ul>
+					<li><a href="/" target="_parent">首页</a></li>
+					<li><a href="/cssthemes/" class="active" target="_parent">网站模板</a></li>
+					<li><a href="/wpthemes/" class="active" target="_parent">WP模板</a></li>
+					<li><a href="/tags.asp" target="_parent">模板标签</a></li>
+					<li><a href="http://jianzhan.cssmoban.com/" target="_parent">建站超市</a></li>
+					<li><a href="/showcase/" target="_parent">酷站欣赏</a></li>
+				</ul>
+			</nav>
+		</div>
+	</section>
+	<div class="blank"></div>
+	<div class="container c404">
+		<h2>404</h2>
+		<p>您要找的页面不在地球上或者已经被删除，请返回<a href="http://www.cssmoban.com/" title="模板之家">模板之家</a>首页</p>
+	</div>
+</div>
+</body>
+</html>
